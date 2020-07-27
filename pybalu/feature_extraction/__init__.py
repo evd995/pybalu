@@ -2,7 +2,7 @@ from .all import all_features, AllExtractor
 from .basic_geo import basic_geo_features, BasicGeoExtractor
 from .basic_int import basic_int_features, BasicIntExtractor
 from .flusser import flusser_features, FlusserExtractor
-from .fourier import fourier_features, FourierExtractor
+#from .fourier import fourier_features, FourierExtractor
 from .fourier_des import fourier_des_features, FourierDesExtractor
 from .gabor import gabor_features, GaborExtractor
 from .gupta import gupta_features, GuptaExtractor
